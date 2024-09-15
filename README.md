@@ -25,4 +25,4 @@
 
 ## UML Class Diagram
 
-![AdapterPattern](https://github.com/user-attachments/assets/c273cf61-f8f5-4dc7-999d-e78d4447c68b)
+![AdapterPattern (1)](https://github.com/user-attachments/assets/2f80dd26-3af9-46d9-baeb-d3f219a24a31)
